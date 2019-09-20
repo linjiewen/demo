@@ -1,6 +1,6 @@
 <?php
 
-namespace haotong\demo\test;
+namespace haotong\demo\demo;
 
 class Demo
 {
