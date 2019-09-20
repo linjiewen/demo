@@ -1,8 +1,8 @@
 <?php
 
-namespace tonghao\demo\test;
+namespace haotong\demo\test;
 
-class Test
+class Demo
 {
     public function index()
     {
