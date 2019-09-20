@@ -1,5 +1,5 @@
 {
-    "name": "haotong/demo",
+    "name": "haotong/test",
     "description": "test composer compoment",
     "type": "library",
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "haotong\\demo\\": "src/"
+            "haotong\\test\\": "src/"
         }
     }
 }
